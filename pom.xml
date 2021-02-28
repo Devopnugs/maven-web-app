@@ -97,15 +97,15 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>  
-	      <url>http://54.87.250.193:8088/mylandmarktech/repository/boa-releases/</url>
-		    
+	      <url>http://54.226.193.105:8081/repository/mlink-releases/</url>
+		     
 		          
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.87.250.193:8088/mylandmarktech/repository/boa-snapshot/</url>
+	      <url>http://54.226.193.105:8081/repository/mlink-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
