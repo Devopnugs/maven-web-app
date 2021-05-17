@@ -101,7 +101,7 @@
 		     
 		          
 	    </repository>
-	    
+	    <!-- Edite this -->
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
